@@ -1,1 +1,1 @@
-# dsuphd
+Repo to hold school related assignments that need to be publicly available
